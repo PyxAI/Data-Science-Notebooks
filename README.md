@@ -15,3 +15,5 @@ At this stage there was a lot of trial and error as to what really helps and wha
 
 But after all that, results still seemed unclear, I thought it had to do with the fact that STL had very different categories - birds, cars, ships, etc. 
 So I tried to use a database that had the same object, so I used the cars dataset. Now that's where things started picking up. I got very good results after a few dozen epochs, and this is the stage that is presented in the notebook.
+
+<a href='https://colab.research.google.com/github/PyxAI/Data-Science-Notebooks/blob/master/DCGAN_out.ipynb'> Open the notebook in colab </a>
