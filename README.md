@@ -5,7 +5,7 @@ In this section, I can upload only my private DS projects.
 I'm a data scientist at <a href='https://www.deeponcology.ai/'>deeponcology.ai</a>, working on very interesting DeepLearning problems.
 
 <b>DCGAN - cars and STL dataset</b>
-<
+
 Genrating Images of cars and STL (cifar-like) Images with DC-GAN.
 
 Development:
