@@ -27,8 +27,10 @@ So I tried to use a database that had the same object, so I used the cars datase
 Improving classifications by unifying two or more pretrained feature extractors to a single output
 
 The experiment had two stages:
+
   -<a href='https://colab.research.google.com/github/PyxAI/Data-Science-Notebooks/blob/master/The_OneNet.ipynb'> First experiment</a>: Sharing just the classifier layer
+  
   -<a href='https://colab.research.google.com/github/PyxAI/Data-Science-Notebooks/blob/master/The_OneNet_sharing_lower_levels.ipynb'>Second experiment</a>: Sharing deeper layers, by having a common convolution or Linear layer
  
-The first experiment proved to be benficial in certain cases.
+The first experiment proved to be benficial in certain cases.<br>
 The second experiment showed only a <b> decrease </b> in performance.
